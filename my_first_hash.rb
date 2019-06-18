@@ -1,5 +1,5 @@
 def my_hash
-your_hash = {my <=> yours}
+your_hash = {"my" <=> "yours"}
 
 
 end
