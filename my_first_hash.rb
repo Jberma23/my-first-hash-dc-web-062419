@@ -1,7 +1,7 @@
 def my_hash
 your_hash = {"my" <=> "yours"}
 
-
+end
 end
 
 
